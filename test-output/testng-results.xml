@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-01T08:27:41Z" name="Suite" finished-at="2023-07-01T08:27:41Z" duration-ms="118">
+    <groups>
+    </groups>
+    <test started-at="2023-07-01T08:27:41Z" name="Testng" finished-at="2023-07-01T08:27:41Z" duration-ms="118">
+      <class name="automationsquad.project.Testfrom">
+        <test-method signature="fr()[pri:0, instance:automationsquad.project.Testfrom@51549490]" started-at="2023-07-01T13:57:41Z" name="fr" finished-at="2023-07-01T13:57:41Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fr -->
+        <test-method signature="fre()[pri:0, instance:automationsquad.project.Testfrom@51549490]" started-at="2023-07-01T13:57:41Z" name="fre" finished-at="2023-07-01T13:57:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fre -->
+      </class> <!-- automationsquad.project.Testfrom -->
+      <class name="automationsquad.project.Testhome">
+        <test-method signature="gg()[pri:0, instance:automationsquad.project.Testhome@432038ec]" started-at="2023-07-01T13:57:41Z" name="gg" finished-at="2023-07-01T13:57:41Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gg -->
+        <test-method signature="tr()[pri:0, instance:automationsquad.project.Testhome@432038ec]" started-at="2023-07-01T13:57:41Z" name="tr" finished-at="2023-07-01T13:57:41Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tr -->
+      </class> <!-- automationsquad.project.Testhome -->
+    </test> <!-- Testng -->
+  </suite> <!-- Suite -->
+</testng-results>
